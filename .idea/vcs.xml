@@ -4,5 +4,6 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/helloworld" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/helloworld-wasm/wasm-game-of-life" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/helloworld-wasm/wasm-game-of-life/www" vcs="Git" />
   </component>
 </project>
